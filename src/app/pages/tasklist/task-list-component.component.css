@@ -1,0 +1,23 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: aqua;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: greenyellow;
+}
